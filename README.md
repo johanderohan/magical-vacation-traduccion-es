@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/game-boy-advance/magical-vacation)**.
+
 Traducción del japonés al **español de España** de *Magical Vacation* para Game Boy Advance.
 
 La traducción se distribuye como **parche IPS**. Necesitas tu propia copia del juego japonés para aplicarlo.
